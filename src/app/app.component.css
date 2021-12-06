@@ -1,0 +1,16 @@
+button {
+  padding: 5px 10px;
+  margin: 4px;
+}
+
+body {
+  background-color: #666;
+}
+
+.center {
+ text-align:center;
+}
+
+.spacer {
+  margin-right: 10px;
+}
