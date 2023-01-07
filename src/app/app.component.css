@@ -14,3 +14,7 @@ body {
 .spacer {
   margin-right: 10px;
 }
+
+div .bg-light {
+  opacity: .4;
+}
